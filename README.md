@@ -24,7 +24,7 @@
 <div align="center">
 
 ### 💻 Languages & Frameworks  
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,cpp,js,py,react,nodejs,expressjs" height="40">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,c,js,py,react,nodejs,expressjs" height="40">
 
 ### 🗄 Databases  
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40">  
